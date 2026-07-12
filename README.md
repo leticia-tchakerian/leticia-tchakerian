@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align = "center">
+    <br clear="both">
+    <img data-importer="snake" src="https://raw.githubusercontent.com/leticia-tchakerian/leticia-tchakerian/snake-output/snake.svg" alt="Snake animation" />
+</p>
+
 <!--
 **leticia-tchakerian/leticia-tchakerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
